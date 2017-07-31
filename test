@@ -1,0 +1,5 @@
+
+la $t0, n
+jr $ra
+.data
+n: .word 11

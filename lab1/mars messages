@@ -1,0 +1,186 @@
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1a.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1a.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1b.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1b.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\ecen350lab-master\lab1\Lab1c.s
+
+Assemble: operation completed successfully.
+
+Go: running Lab1c.s
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\swap.asm
+
+Error in C:\Users\zengk\Downloads\swap.asm line 7 column 17: "$0": operand is of incorrect type
+Error in C:\Users\zengk\Downloads\swap.asm line 8 column 16: "$0": operand is of incorrect type
+Error in C:\Users\zengk\Downloads\swap.asm line 9 column 17: "$0": operand is of incorrect type
+Assemble: operation completed with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\swap.asm
+
+Error in C:\Users\zengk\Downloads\swap.asm line 7 column 17: "$0": operand is of incorrect type
+Error in C:\Users\zengk\Downloads\swap.asm line 8 column 16: "$0": operand is of incorrect type
+Error in C:\Users\zengk\Downloads\swap.asm line 9 column 17: "$0": operand is of incorrect type
+Assemble: operation completed with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\swap.asm
+
+Assemble: operation completed successfully.
+
+Go: running swap.asm
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\swap.asm
+
+Assemble: operation completed successfully.
+
+Go: running swap.asm
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\swap.asm
+
+Assemble: operation completed successfully.
+
+Go: running swap.asm
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\swap.asm
+
+Assemble: operation completed successfully.
+
+Assemble: assembling C:\Users\zengk\Downloads\swap.asm
+
+Assemble: operation completed successfully.
+
+Error in : invalid program counter value: 0x00000000
+
+Step: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Downloads\swap.asm
+
+Assemble: operation completed successfully.
+
+Go: running swap.asm
+
+Error in : invalid program counter value: 0x00000000
+
+Go: execution terminated with errors.
+

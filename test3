@@ -1,0 +1,31 @@
+.data
+array: .word 23 32 23 455 20
+.align 2
+.text
+main: addi $sp, $sp, -4 #this instruction is located at 0x00400000
+sw $ra, 0($sp)
+la $a0, array
+addi $a1, $zero, 5 #instruction 1
+jal subprog
+lw $ra, 0($sp) #instruction 2
+addi $sp, $sp, 4
+jr $ra
+subprog: addi $sp, $sp, -16 #this instruction is located at 0x00400024
+sw $ra, 0($sp)
+sw $a0, 4($sp)
+sw $a1, 8($sp)
+li $v0, 0
+li $t3, 3
+j skip
+loop: lw $t2, 0($a0) #instruction 3
+addi $a0,$a0,4
+and $t0,$t2,$t3
+bne $t0, $0, skip
+addi $v0, $v0, 1
+skip: addi $a1, $a1, -1
+bge $a1, $0, loop
+lw $ra, 0($sp)
+lw $a0, 4($sp)
+lw $a1, 8($sp)
+addi $sp, $sp, 16
+jr $ra

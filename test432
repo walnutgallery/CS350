@@ -1,0 +1,9 @@
+ori $t0, $0, 8
+ori $t1, $0, 3
+addi $t2, $0, 0
+loop: and $t3, $t1, $t0
+beq $t3, $0, skip
+addi $t2, $t2, 1
+skip:addi $t0, $t0, -1
+bne $t0 ,$0, loop
+

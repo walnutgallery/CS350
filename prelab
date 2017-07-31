@@ -1,0 +1,36 @@
+addi $a0, $0, 3
+addi $a1, $0, 5
+
+f:
+addi $sp, $sp, -12 #adjust stack pointer
+sw $ra, 8($sp)
+sw $a1, 4($sp)
+sw $a0, 0($sp) #push n,k, and return address onto the stack
+
+addi $s0, $a1, 2 #b+2
+
+bne, $a0, $0, L1 #go to recursive call
+addi $s0, $0, 8 # equivalent of if(n==0) b=8
+
+return: 
+add $v0, $s0, $a1 #return b+k
+addi $sp, $sp, 12 #adjust stack
+jr $ra #return to caller
+
+L1:
+addi $a0, $a0, -1 #change arguments
+addi $a1, $a1, 1
+jal f #call it again
+
+bk_f:
+lw $a0, 0($sp)
+lw $a1, 4($sp)
+lw $ra, 8($sp)
+sll $t1, $a0, 2 #get 4*n (order of operations)
+add $s0, $s0, $t1 #b+4n
+add $s0, $s0, $v0 #v0=b+b*4+f(n-1,k+1);
+addi $sp, $sp, 12 #return arguments, stack pointer, and adjusts stack pointer
+j return
+jr $ra
+
+

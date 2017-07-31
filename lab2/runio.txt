@@ -1,0 +1,49 @@
+A 17 byte message
+Another message of 27 bytes
+
+-- program is finished running --
+
+**** user input : 234
+234
+
+-- program is finished running --
+
+**** user input : aaaaaaaaaaaaaa
+aaaaaAaaaaaaaa
+
+-- program is finished running --
+
+**** user input : AAAAAAAAAAAAAaa
+AAAAAAAAAAAAAaa
+
+-- program is finished running --
+
+**** user input : babababababab
+bababAbababab
+
+-- program is finished running --
+
+**** user input : 234aaaaaaa
+7
+-- program is finished running --
+
+**** user input : aaaaaaaaaaaAAAAAa
+12
+-- program is finished running --
+
+**** user input : afsdfsdfasdfaldkjfl
+19
+-- program is finished running --
+
+**** user input : wjkehrlsdf
+10
+-- program is finished running --
+
+**** user input : 23
+Your number in Hex is: 17
+-- program is finished running --
+
+**** user input : 1aaa
+**** user input : sdlfkd
+**** user input : 124322
+Your number in Hex is: 

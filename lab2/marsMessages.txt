@@ -1,0 +1,229 @@
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2a.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2a.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2b.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2b.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2b.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2b.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2b.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2b.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2b.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2b.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2c.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2c.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2c.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2c.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2c.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2c.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2c.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2c.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2d.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2d.asm
+
+Error in C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm line 8: Runtime exception at 0x00400004: invalid integer input (syscall 5)
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2d.asm
+
+Error in C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm line 8: Runtime exception at 0x00400004: invalid integer input (syscall 5)
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2d.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2d.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2d.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2d.asm
+
+Error in C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm line 8: Runtime exception at 0x00400004: invalid integer input (syscall 5)
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2d.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2d.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2e.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2e.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2e.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2e.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2e.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2e.asm
+
+Error in C:\Users\zengk\Documents\ecen350lab\lab2\lab2e.asm line 9: Runtime exception at 0x00400004: invalid integer input (syscall 5)
+
+Go: execution terminated with errors.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2e.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2e.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2e.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2e.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2e.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2e.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2e.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2e.asm
+
+
+Go: execution completed successfully.
+
+Assemble: assembling C:\Users\zengk\Documents\ecen350lab\lab2\lab2e.asm
+
+Assemble: operation completed successfully.
+
+Go: running lab2e.asm
+
+
+Go: execution completed successfully.
+

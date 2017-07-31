@@ -1,0 +1,11 @@
+Please enter an integer number: 1
+	First result: 8	Second result: 0Please enter an integer number: 2
+	First result: 16	Second result: 0Please enter an integer number: 6
+	First result: 48	Second result: 0Please enter an integer number: 10000
+	First result: 80000	Second result: 1250Please enter an integer number: 32000
+	First result: 256000	Second result: 4000Please enter an integer number: 2
+	First result: 16	Second result: 0Please enter an integer number: 6
+	First result: 0	Second result: 0Please enter an integer number: 200
+	First result: 1600	Second result: 25Please enter an integer number: 4000
+	First result: 32000	Second result: 500Please enter an integer number: 23456
+	First result: 187648	Second result: 2932
